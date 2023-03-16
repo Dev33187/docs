@@ -45,3 +45,26 @@ There are several paths users can take to acquire EVMOS Token.
 - [Testnet Faucet](https://faucet.evmos.dev/) dispenses a small amount of testnet tokens
 
 </details>
+
+<details> 
+
+<summary><b>From where to claim faucet for Evmos Mainnet token?</b></summary>
+
+Can claim small amount of Evmos mainnet faucet from official Evmos discord bot channel. 
+
+-[Mainnet faucet](https://discord.com/channels/809048090249134080/1030344710205747271) dispenses a small amount of Mainnet tokens
+
+</details>
+
+
+
+## Staking/Delegating 
+
+<details>
+
+<summary><b>Which Validators should we stake/delegate to?</b></summary>
+
+For the best practice,stake/delegate Validators outside top-20 or top-50 to help decentralization of network and support small Validators. 
+
+</details>
+
